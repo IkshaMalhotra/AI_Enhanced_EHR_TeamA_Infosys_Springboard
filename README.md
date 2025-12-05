@@ -11,14 +11,18 @@ An advanced healthcare application that integrates Generative AI with Electronic
 - Creating Synthetic EHR data using Synthea with MIMIC-III schema
 - Download MRI, CT, and EHR datasets that are openly licensed.
 - The data sources are mentioned in docs/dataset_sources.md
+
+  
 2.Organize into folders
 
 - Create a root project folder.
 - Inside it, keep two main folders: images and ehr_notes.
 - Name files properly (for example: MRI_001.png, CT_002.png, note_001.txt).
+
+  
 3.Data cleaning and Preprocessing
  
-  - Remove corrupted, duplicate, or unreadable image files.
+- Remove corrupted, duplicate, or unreadable image files.
 - Standardize image formats (e.g., convert to PNG/JPEG).
 - Organize images into structured directories by modality and Validate image-label mappings.
 - Handle missing values in patient demographics, diagnoses, and procedures.
