@@ -1,6 +1,6 @@
 # **Milestone 2 — Medical Image Enhancement**
 
-Milestone 2 focuses on enhancing the visual quality of medical images collected in Milestone 1 using AI-based and classical image processing techniques. The goal is to improve clinical readability by correcting common quality issues such as noise, blur, low contrast, and poor resolution.
+Milestone 2 focuses on enhancing the visual quality of medical images collected in Milestone 1 using both AI-based and classical image processing techniques. The goal is to enhance clinical readability by correcting common quality issues such as noise, blur, low contrast, and poor resolution.
 
 This milestone prepares the imaging data for accurate downstream tasks including:
 
@@ -9,7 +9,7 @@ This milestone prepares the imaging data for accurate downstream tasks including
 * ICD-10 code prediction
 * Decision support systems
 
-The enhancement process ensures that medical images are visually optimized while preserving important diagnostic features.
+The enhancement process ensures that medical images are visually optimized without compromising important diagnostic features.
 
 ---
 
@@ -21,7 +21,7 @@ The primary objectives of this milestone are:
 * To apply suitable AI-based and image processing techniques
 * To generate before-and-after enhancement comparisons
 * To analyze how enhancement improves clinical interpretability
-* To prepare enhanced images for ICD automation and AI training
+* To prepare enhanced images for ICD-10 automation and AI training
 
 ---
 
