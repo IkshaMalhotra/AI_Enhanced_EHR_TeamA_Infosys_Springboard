@@ -1,0 +1,26 @@
+**Clinical Note**
+
+**Patient Information:**  
+Age: 31  
+Gender: Female  
+
+**Chief Complaint:**  
+Persistent cough and mild chest discomfort for 7 days  
+
+**History of Present Illness (HPI):**  
+The patient reports a persistent cough and mild chest discomfort lasting for 7 days, with symptoms gradually improving. Denies recent travel.  
+
+**Vitals:**  
+- Temperature: 99°F  
+- Pulse: 92 bpm  
+- Oxygen Saturation: 94%  
+
+**Assessment and Plan:**  
+- Persistent cough with mild chest discomfort, likely resolving.  
+- Monitor for worsening symptoms or signs of infection.  
+- Consider supportive care measures (hydration, cough suppressants as needed).  
+- Follow-up if symptoms persist or worsen.  
+
+**Provider:**  
+[Name/Signature]  
+[Date]

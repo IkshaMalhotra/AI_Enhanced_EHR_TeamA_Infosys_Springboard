@@ -1,0 +1,26 @@
+**Clinical Note**
+
+**Patient Information:**  
+Age: 23  
+Gender: Male  
+
+**Chief Complaint:**  
+Headache and dizziness for 6 days  
+
+**History of Present Illness (HPI):**  
+The patient reports persistent headache and dizziness for the past 6 days, unrelieved by rest. Appetite remains normal. No additional associated symptoms reported.  
+
+**Vitals:**  
+- Temperature: 100°F  
+- Pulse: 95 bpm  
+- Oxygen Saturation: 94%  
+
+**Assessment and Plan:**  
+- Persistent headache and dizziness with low-grade fever and mild hypoxia.  
+- Differential diagnoses include viral illness, dehydration, or other systemic causes.  
+- Further evaluation recommended, including physical examination, laboratory studies, and imaging if indicated.  
+- Symptomatic management advised, including hydration and analgesics as appropriate.  
+
+**Provider:**  
+[Name/Signature]  
+[Date]

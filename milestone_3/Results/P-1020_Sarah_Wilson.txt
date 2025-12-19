@@ -1,0 +1,24 @@
+**Clinical Note**
+
+**Patient Information:**  
+Age: 63  
+Gender: Male  
+
+**Chief Complaint:**  
+Lower back pain for 5 days  
+
+**History of Present Illness (HPI):**  
+The patient reports lower back pain for the past 5 days. Symptoms are fluctuating in intensity. No associated fever or systemic symptoms noted.  
+
+**Vitals:**  
+- Temperature: 98 °F  
+- Pulse: 72 bpm  
+- Oxygen Saturation: 96%  
+
+**Assessment/Plan:**  
+- Evaluate for musculoskeletal or other potential causes of lower back pain.  
+- Consider imaging or further diagnostic testing if symptoms persist or worsen.  
+- Symptomatic management and follow-up as needed.  
+
+**Provider:**  
+[Name/Signature]

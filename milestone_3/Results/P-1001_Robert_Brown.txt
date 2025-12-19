@@ -1,0 +1,25 @@
+**Clinical Note**
+
+**Patient Information:**  
+Age: 47  
+Gender: Male  
+
+**Chief Complaint:**  
+Skin rash for 4 days  
+
+**History of Present Illness (HPI):**  
+The patient reports a skin rash persisting for 4 days, accompanied by mild discomfort throughout the day. No major complications or associated symptoms reported.  
+
+**Vitals:**  
+- Temperature: 98°F  
+- Pulse: 81 bpm  
+- Oxygen Saturation: 95%  
+
+**Assessment and Plan:**  
+- Evaluate the rash for potential etiology (e.g., allergic reaction, infection, or dermatologic condition).  
+- Consider topical or systemic treatment based on findings.  
+- Patient advised to monitor for worsening symptoms or additional systemic signs (e.g., fever, swelling).  
+
+**Provider Signature:**  
+_________________________  
+Date: __________________

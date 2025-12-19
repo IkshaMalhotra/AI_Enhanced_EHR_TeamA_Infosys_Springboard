@@ -1,0 +1,26 @@
+**Clinical Note**
+
+**Patient Information:**  
+Age: 44  
+Gender: Male  
+
+**Chief Complaint:**  
+Headache and dizziness for 2 days  
+
+**History of Present Illness (HPI):**  
+The patient reports experiencing headache and dizziness for the past 2 days, with symptoms slowly improving. Denies recent travel.  
+
+**Vitals:**  
+- Temperature: 99 °F  
+- Pulse: 77 bpm  
+- Oxygen Saturation: 98%  
+
+**Assessment and Plan:**  
+- Likely mild viral illness or tension headache.  
+- Continue monitoring symptoms.  
+- Recommend adequate hydration, rest, and over-the-counter analgesics as needed.  
+- Return if symptoms worsen or new concerning signs develop.  
+
+**Provider:**  
+[Insert Provider Name]  
+[Insert Date]

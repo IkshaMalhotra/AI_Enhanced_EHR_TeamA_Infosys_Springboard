@@ -1,0 +1,26 @@
+**Clinical Note**
+
+**Patient Information:**  
+Age: 48  
+Gender: Male  
+
+**Chief Complaint:**  
+Joint pain for 10 days  
+
+**History of Present Illness (HPI):**  
+The patient reports intermittent joint discomfort for the past 10 days. He denies any prior similar issues. No associated swelling, redness, or trauma noted.  
+
+**Vitals:**  
+- Temperature: 97 °F  
+- Pulse: 75 bpm  
+- Oxygen Saturation: 98%  
+
+**Assessment/Plan:**  
+- Evaluate for possible causes of joint pain (e.g., inflammatory, degenerative, or mechanical).  
+- Consider laboratory workup (e.g., inflammatory markers, uric acid) and imaging if symptoms persist or worsen.  
+- Recommend supportive measures, including rest, ice, and over-the-counter analgesics as needed.  
+- Follow-up in 1-2 weeks or sooner if symptoms escalate.  
+
+**Provider:**  
+[Name/Signature]  
+[Date]

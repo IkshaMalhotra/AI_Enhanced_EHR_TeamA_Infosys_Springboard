@@ -1,0 +1,26 @@
+**Clinical Note**
+
+**Patient Information:**  
+Age: 52  
+Gender: Male  
+
+**Chief Complaint:**  
+Mild fever and fatigue for 3 days  
+
+**History of Present Illness (HPI):**  
+The patient reports mild fever and fatigue over the past 3 days. Symptoms have been fluctuating, with no fever observed during the visit.  
+
+**Vitals:**  
+- Temperature: 98°F  
+- Pulse: 97 bpm  
+- Oxygen Saturation: 94%  
+
+**Assessment and Plan:**  
+- Mild fatigue with no current fever.  
+- Monitor symptoms for progression or resolution.  
+- Consider further evaluation if symptoms persist or worsen.  
+- Encourage adequate hydration, rest, and follow-up as needed.  
+
+Signed,  
+[Provider Name]  
+[Date]

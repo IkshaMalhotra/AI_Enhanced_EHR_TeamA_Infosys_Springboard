@@ -1,0 +1,23 @@
+**Clinical Note**
+
+**Patient Information:**  
+Age: 58  
+Gender: Male  
+
+**Chief Complaint:**  
+Joint pain for 6 days  
+
+**History of Present Illness (HPI):**  
+The patient reports joint pain for the past 6 days. Symptoms are fluctuating in intensity. No fever has been observed during this period.  
+
+**Vitals:**  
+- Temperature: 97 °F  
+- Pulse: 97 bpm  
+- Oxygen Saturation: 95%  
+
+**Assessment and Plan:**  
+Further evaluation is recommended to determine the underlying cause of joint pain. Consider laboratory tests, imaging studies, and review of medical history to rule out inflammatory, infectious, or degenerative etiologies. Symptomatic management may be initiated as appropriate.  
+
+**Provider Signature:**  
+________________________  
+Date: __________________

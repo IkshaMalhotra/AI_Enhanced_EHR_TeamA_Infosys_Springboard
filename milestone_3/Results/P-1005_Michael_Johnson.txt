@@ -1,0 +1,23 @@
+**Clinical Note**
+
+**Patient Information:**  
+Age: 23  
+Gender: Female  
+
+**Chief Complaint:**  
+Headache and dizziness for 8 days  
+
+**History of Present Illness (HPI):**  
+The patient reports mild discomfort throughout the day for the past 8 days. Symptoms include headache and dizziness. No major complications noted.  
+
+**Vitals:**  
+- Temperature: 98°F  
+- Pulse: 88 bpm  
+- Oxygen Saturation: 99%  
+
+**Assessment and Plan:**  
+The patient presents with mild headache and dizziness persisting for 8 days without significant complications. Vitals are within normal limits. Further evaluation and diagnostic workup may be warranted to rule out underlying causes. Symptomatic management to be considered.  
+
+**Provider:**  
+[Insert Provider Name]  
+[Insert Date]

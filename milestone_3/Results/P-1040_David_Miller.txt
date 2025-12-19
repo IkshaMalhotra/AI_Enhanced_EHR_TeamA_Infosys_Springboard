@@ -1,0 +1,23 @@
+**Clinical Note**
+
+**Patient Information:**  
+Age: 67  
+Gender: Female  
+
+**Chief Complaint:**  
+Nausea and vomiting for 9 days  
+
+**History of Present Illness (HPI):**  
+The patient reports persistent nausea and vomiting for the past 9 days, with symptoms worsening at night. She denies any notable triggers or associated factors.  
+
+**Vitals:**  
+- Temperature: 98 °F  
+- Pulse: 76 bpm  
+- Oxygen Saturation: 94%  
+
+**Assessment and Plan:**  
+Further evaluation is necessary to determine the underlying cause of prolonged nausea and vomiting. Consider laboratory testing, imaging, and review of medication history. Symptomatic management and hydration will be prioritized.  
+
+Signed,  
+[Provider Name]  
+[Date]

@@ -1,0 +1,31 @@
+**Clinical Note**
+
+**Patient Information:**  
+Age: 59  
+Gender: Female  
+
+**Chief Complaint:**  
+Joint pain for 6 days  
+
+**History of Present Illness (HPI):**  
+The patient reports persistent joint pain for the past 6 days, unrelieved by rest. No changes in appetite.  
+
+**Vitals:**  
+- Temperature: 100 °F  
+- Pulse: 89 bpm  
+- Oxygen Saturation: 94%  
+
+**Assessment and Plan:**  
+- Evaluate for potential inflammatory or infectious causes of joint pain.  
+- Consider laboratory workup (e.g., CBC, ESR, CRP) and imaging if indicated.  
+- Symptomatic management with analgesics and anti-inflammatory medications as appropriate.  
+- Monitor for worsening symptoms or systemic signs (e.g., fever, swelling, redness).  
+
+**Follow-Up:**  
+Reassess in 1 week or sooner if symptoms worsen.  
+
+---  
+**Provider Name:**  
+[Insert Provider Name]  
+**Date:**  
+[Insert Date]

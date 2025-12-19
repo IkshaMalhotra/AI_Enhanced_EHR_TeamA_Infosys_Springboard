@@ -1,0 +1,23 @@
+**Clinical Note**
+
+**Patient Information:**  
+Age: 36  
+Gender: Female  
+
+**Chief Complaint:**  
+Nausea and vomiting for 2 days  
+
+**History of Present Illness (HPI):**  
+The patient reports nausea and vomiting for the past 2 days. Symptoms are intermittent and fluctuate in severity. No associated fever has been observed.  
+
+**Vitals:**  
+- Temperature: 99 °F  
+- Pulse: 71 bpm  
+- Oxygen Saturation: 99%  
+
+**Assessment and Plan:**  
+The patient presents with nausea and vomiting of 2 days' duration without fever. Vitals are within normal limits. Further evaluation is recommended to determine the underlying cause. Consider hydration status, dietary history, and potential triggers. Diagnostic testing or symptomatic management may be initiated based on clinical judgment.  
+
+**Provider:**  
+[Insert Name]  
+[Insert Date]

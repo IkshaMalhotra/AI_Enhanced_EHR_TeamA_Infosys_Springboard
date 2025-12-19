@@ -1,0 +1,23 @@
+**Clinical Note**
+
+**Patient Information:**  
+Age: 36  
+Gender: Male  
+
+**Chief Complaint:**  
+Shortness of breath for 6 days  
+
+**History of Present Illness (HPI):**  
+The patient reports sudden onset of shortness of breath 6 days ago. Hydration provides slight relief. No additional associated symptoms reported at this time.  
+
+**Vitals:**  
+- Temperature: 98°F  
+- Pulse: 100 bpm  
+- Oxygen Saturation: 95%  
+
+**Assessment/Plan:**  
+Further evaluation is necessary to determine the underlying cause of the patient's shortness of breath. Consider differential diagnoses such as respiratory infection, asthma exacerbation, or cardiac-related etiology. Recommend pulse oximetry monitoring, chest imaging, and laboratory studies as clinically indicated.  
+
+**Provider:**  
+[Insert Name]  
+[Insert Date]

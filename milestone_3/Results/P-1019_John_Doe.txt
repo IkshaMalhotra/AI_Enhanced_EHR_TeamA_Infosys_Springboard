@@ -1,0 +1,23 @@
+**Clinical Note**  
+
+**Patient Information:**  
+Age: 23  
+Gender: Male  
+
+**Chief Complaint:**  
+Persistent cough and mild chest discomfort for 6 days.  
+
+**History of Present Illness (HPI):**  
+The patient reports a persistent cough and mild chest discomfort that has been present for 6 days. Symptoms fluctuate in intensity, and no fever has been observed.  
+
+**Vitals:**  
+- Temperature: 100 °F  
+- Pulse: 92 bpm  
+- Oxygen Saturation: 95%  
+
+**Assessment and Plan:**  
+The patient presents with a persistent cough and mild chest discomfort. Vital signs indicate a low-grade fever and mild tachycardia, with oxygen saturation within acceptable limits. Differential diagnosis includes viral upper respiratory infection, bronchitis, or early pneumonia. Further evaluation, including auscultation and possible imaging, may be warranted. Symptomatic management and close monitoring are advised.  
+
+**Provider Signature:**  
+_________________________  
+Date: __________________

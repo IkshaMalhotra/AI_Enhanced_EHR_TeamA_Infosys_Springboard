@@ -1,0 +1,25 @@
+**Clinical Note**
+
+**Patient Information:**  
+Age: 20  
+Gender: Female  
+
+**Chief Complaint:**  
+Joint pain for 7 days  
+
+**History of Present Illness (HPI):**  
+The patient reports joint pain persisting for the past 7 days, with symptoms improving slowly. Denies recent travel.  
+
+**Vitals:**  
+- Temperature: 97 °F  
+- Pulse: 81 bpm  
+- Oxygen Saturation: 95%  
+
+**Assessment and Plan:**  
+- Monitor symptom progression and improvement.  
+- Consider further evaluation if symptoms persist or worsen.  
+- No immediate concerns based on current vitals and history.  
+
+**Provider:**  
+[Insert Provider Name]  
+[Insert Date]

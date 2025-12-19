@@ -1,0 +1,27 @@
+**Clinical Note**
+
+**Patient Information:**  
+Age: 30 years  
+Gender: Female  
+
+**Chief Complaint:**  
+Headache and dizziness for 4 days  
+
+**History of Present Illness (HPI):**  
+The patient reports a gradual onset of headache and dizziness persisting for the past 4 days. Symptoms have mildly disrupted sleep. No associated fever, nausea, or vomiting reported.  
+
+**Vitals:**  
+- Temperature: 98°F  
+- Pulse: 81 bpm  
+- Oxygen Saturation: 99%  
+
+**Assessment and Plan:**  
+- Differential diagnosis includes tension headache, migraine, or vestibular dysfunction.  
+- Recommend further evaluation with a detailed neurological and ENT examination.  
+- Consider imaging (e.g., CT or MRI) if symptoms persist or worsen.  
+- Advise hydration, rest, and over-the-counter analgesics as needed.  
+- Follow-up in 1 week or sooner if symptoms escalate.  
+
+**Provider Signature:**  
+________________________  
+Date: __________________

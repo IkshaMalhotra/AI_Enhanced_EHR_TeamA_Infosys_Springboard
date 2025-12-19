@@ -1,0 +1,23 @@
+**Clinical Note**
+
+**Patient Information:**  
+Age: 29  
+Gender: Male  
+
+**Chief Complaint:**  
+Headache and dizziness for 6 days  
+
+**History of Present Illness (HPI):**  
+The patient reports experiencing headache and dizziness for the past 6 days. Symptoms are described as worsening at night, with no identifiable triggers.  
+
+**Vitals:**  
+- Temperature: 97 °F  
+- Pulse: 80 bpm  
+- Oxygen Saturation: 94%  
+
+**Assessment and Plan:**  
+Further evaluation is necessary to determine the etiology of the headache and dizziness. Differential diagnoses may include migraine, tension headache, vestibular dysfunction, or other neurological or systemic causes. Recommend neurological examination, review of medication history, and consideration of imaging studies if symptoms persist or worsen.  
+
+**Provider:**  
+[Name/Signature]  
+[Date]

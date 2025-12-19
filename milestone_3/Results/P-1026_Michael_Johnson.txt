@@ -1,0 +1,26 @@
+**Clinical Note**
+
+**Patient Information:**  
+Age: 40  
+Gender: Male  
+
+**Chief Complaint:**  
+Shortness of breath for 5 days  
+
+**History of Present Illness (HPI):**  
+The patient reports intermittent episodes of shortness of breath over the past 5 days. He denies any prior similar symptoms.  
+
+**Vitals:**  
+- Temperature: 97°F  
+- Pulse: 100 bpm  
+- Oxygen Saturation: 95%  
+
+**Assessment and Plan:**  
+- Evaluate for potential respiratory or cardiac causes of shortness of breath.  
+- Consider further diagnostic testing, including chest imaging and pulmonary function tests, if clinically indicated.  
+- Monitor oxygen saturation and heart rate trends.  
+- Follow up for symptom progression or resolution.  
+
+**Provider Signature:**  
+_________________________  
+Date: __________________

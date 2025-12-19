@@ -1,0 +1,26 @@
+**Clinical Note**
+
+**Patient Information:**  
+Age: 66  
+Gender: Female  
+
+**Chief Complaint:**  
+Joint pain for 10 days  
+
+**History of Present Illness (HPI):**  
+The patient reports persistent joint pain for the past 10 days. Symptoms have not improved with rest. Appetite remains normal. No additional associated symptoms reported.  
+
+**Vitals:**  
+- Temperature: 97 °F  
+- Pulse: 82 bpm  
+- Oxygen Saturation: 94%  
+
+**Assessment and Plan:**  
+1. Evaluate for potential causes of joint pain, including inflammatory, degenerative, or infectious etiologies.  
+2. Consider laboratory testing (e.g., inflammatory markers, rheumatoid factor) and imaging studies as clinically indicated.  
+3. Recommend symptomatic management with NSAIDs or acetaminophen if appropriate.  
+4. Advise follow-up for reassessment or earlier if symptoms worsen.  
+
+**Provider:**  
+[Insert Name]  
+[Insert Date]

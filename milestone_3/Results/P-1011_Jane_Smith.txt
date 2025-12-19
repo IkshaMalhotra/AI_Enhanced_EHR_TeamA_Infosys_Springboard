@@ -1,0 +1,26 @@
+**Clinical Note**
+
+**Patient Information:**  
+Age: 33  
+Gender: Male  
+
+**Chief Complaint:**  
+Skin rash for 6 days  
+
+**History of Present Illness (HPI):**  
+The patient reports a skin rash persisting for 6 days, with symptoms improving slowly. He denies any recent travel.  
+
+**Vitals:**  
+- Temperature: 98 °F  
+- Pulse: 80 bpm  
+- Oxygen Saturation: 96%  
+
+**Assessment and Plan:**  
+- The patient presents with a skin rash of 6 days duration, with gradual improvement.  
+- No systemic symptoms or concerning findings noted.  
+- Consider topical treatment or further evaluation if symptoms persist or worsen.  
+- Follow-up in 1 week or sooner if condition deteriorates.  
+
+**Provider:**  
+[Name/Signature]  
+[Date]

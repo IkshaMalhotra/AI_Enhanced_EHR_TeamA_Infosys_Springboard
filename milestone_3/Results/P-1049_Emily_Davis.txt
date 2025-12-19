@@ -1,0 +1,25 @@
+**Clinical Note**
+
+**Patient Information:**  
+Age: 21  
+Gender: Male  
+
+**Chief Complaint:**  
+Lower back pain for 10 days  
+
+**History of Present Illness (HPI):**  
+The patient reports a gradual onset of lower back pain persisting for the past 10 days. Pain has mildly disrupted sleep but is otherwise tolerable. No history of trauma or recent physical strain reported.  
+
+**Vitals:**  
+- Temperature: 97°F  
+- Pulse: 90 bpm  
+- Oxygen Saturation: 99%  
+
+**Assessment and Plan:**  
+- Likely musculoskeletal etiology given gradual onset and absence of red flag symptoms.  
+- Recommend conservative management: rest, NSAIDs (as needed), and stretching exercises.  
+- Monitor for any worsening symptoms, including neurological deficits or systemic signs.  
+- Follow-up in 1-2 weeks if symptoms persist or worsen.  
+
+**Provider Signature:**  
+[Name, Credentials]

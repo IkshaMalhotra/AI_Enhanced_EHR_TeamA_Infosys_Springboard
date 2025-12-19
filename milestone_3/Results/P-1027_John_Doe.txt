@@ -1,0 +1,26 @@
+**Clinical Note**  
+
+**Patient Information:**  
+Age: 45  
+Gender: Female  
+
+**Chief Complaint:**  
+Sore throat and congestion for 6 days  
+
+**History of Present Illness (HPI):**  
+The patient reports intermittent throat discomfort and nasal congestion persisting for 6 days. She denies any prior similar episodes.  
+
+**Vitals:**  
+- Temperature: 100 °F  
+- Pulse: 94 bpm  
+- Oxygen Saturation: 96%  
+
+**Assessment and Plan:**  
+- Likely upper respiratory infection.  
+- Symptomatic management recommended: hydration, rest, and over-the-counter analgesics as needed.  
+- Monitor for worsening symptoms, including fever persistence, difficulty breathing, or prolonged duration beyond 10 days.  
+- Follow-up if symptoms do not improve or worsen.  
+
+**Provider:**  
+[Name/Signature]  
+[Date]

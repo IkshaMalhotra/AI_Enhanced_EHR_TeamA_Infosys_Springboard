@@ -1,0 +1,25 @@
+**Clinical Note**  
+
+**Patient Information:**  
+Age: 56  
+Gender: Female  
+
+**Chief Complaint:**  
+Lower back pain for 4 days  
+
+**History of Present Illness (HPI):**  
+The patient reports lower back pain for the past 4 days, with symptoms improving slowly. Denies recent travel.  
+
+**Vitals:**  
+- Temperature: 98°F  
+- Pulse: 100 bpm  
+- Oxygen Saturation: 95%  
+
+**Assessment and Plan:**  
+- The patient presents with lower back pain of 4 days duration, with gradual improvement. No signs of systemic infection or concerning features noted based on vitals and history.  
+- Continue monitoring symptoms. Consider conservative management with rest, heat application, and over-the-counter analgesics as needed.  
+- Follow-up if symptoms worsen or persist beyond 7 days.  
+
+**Provider:**  
+[Name/Signature]  
+[Date]

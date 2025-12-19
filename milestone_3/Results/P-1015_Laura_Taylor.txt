@@ -1,0 +1,25 @@
+**Clinical Note**
+
+**Patient Information:**  
+Age: 56  
+Gender: Female  
+
+**Chief Complaint:**  
+Joint pain for 5 days  
+
+**History of Present Illness (HPI):**  
+The patient reports sudden onset of joint pain 5 days ago. Symptoms are minimally alleviated with hydration. No additional associated symptoms reported.  
+
+**Vitals:**  
+- Temperature: 100 °F  
+- Pulse: 75 bpm  
+- Oxygen Saturation: 96%  
+
+**Assessment/Plan:**  
+- Evaluate for potential causes of acute joint pain, including inflammatory, infectious, or systemic etiologies.  
+- Consider laboratory workup (e.g., CBC, ESR, CRP) and imaging if indicated.  
+- Symptomatic management and hydration support to continue.  
+- Follow-up in [timeframe] or sooner if symptoms worsen.  
+
+**Provider Signature:**  
+[Name, Title]
