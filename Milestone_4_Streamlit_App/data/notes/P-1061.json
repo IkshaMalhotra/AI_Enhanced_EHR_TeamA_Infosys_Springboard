@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1061",
+  "clinical_note": "Robert Brown presents with a 4-day history of epigastric abdominal pain accompanied by nausea, likely related to food intake. There are no severe symptoms reported.",
+  "assessment": "Epigastric abdominal pain, likely food-related.",
+  "icd10_code": "R10.13",
+  "icd10_description": "Epigastric pain",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

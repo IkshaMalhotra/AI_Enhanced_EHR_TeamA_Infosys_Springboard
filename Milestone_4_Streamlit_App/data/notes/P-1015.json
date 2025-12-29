@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1015",
+  "clinical_note": "Laura Taylor presents with joint pain for 5 days. Symptoms began suddenly, and hydration provides slight relief.",
+  "assessment": "Acute joint pain, likely inflammatory or related to overuse. Further evaluation needed to determine underlying cause.",
+  "icd10_code": "M25.50",
+  "icd10_description": "Pain in unspecified joint",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

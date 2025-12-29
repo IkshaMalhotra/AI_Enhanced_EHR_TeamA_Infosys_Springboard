@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1016",
+  "clinical_note": "Michael Johnson presents with a mild fever and fatigue for 3 days. He reports an acute onset of fever accompanied by cough and a sore throat. There is no shortness of breath reported.",
+  "assessment": "Likely viral upper respiratory infection.",
+  "icd10_code": "J06.9",
+  "icd10_description": "Acute upper respiratory infection, unspecified",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

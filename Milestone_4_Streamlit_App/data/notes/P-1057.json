@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1057",
+  "clinical_note": "David Miller presents with a chief complaint of shortness of breath for 7 days. The discomfort has been intermittent, and the patient reports no prior similar issues.",
+  "assessment": "Intermittent shortness of breath, likely due to a respiratory or cardiovascular condition. Further evaluation is required to determine the underlying cause.",
+  "icd10_code": "R06.02",
+  "icd10_description": "Shortness of breath",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

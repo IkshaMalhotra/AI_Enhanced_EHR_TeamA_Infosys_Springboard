@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1095",
+  "clinical_note": "Olivia Clark presents with a sore throat and congestion persisting for 8 days. Pain increases with physical activity, but there is no swelling reported.",
+  "assessment": "Acute viral pharyngitis",
+  "icd10_code": "J02.9",
+  "icd10_description": "Acute pharyngitis, unspecified",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

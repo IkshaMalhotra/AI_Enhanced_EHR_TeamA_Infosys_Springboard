@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1078",
+  "clinical_note": "Olivia Clark presents with a 6-day history of epigastric abdominal pain accompanied by nausea, likely related to food intake. Symptoms are not severe.",
+  "assessment": "Epigastric abdominal pain, likely gastritis or dyspepsia.",
+  "icd10_code": "K30",
+  "icd10_description": "Functional dyspepsia",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1099",
+  "assessment": "Michael Johnson presents with a 3-day history of mild to moderate headache and dizziness. The headache is not associated with nausea, photophobia, or aura, suggesting a non-migraine etiology. Further evaluation may be needed to rule out tension-type headache or other causes.",
+  "icd10_code": "R51",
+  "icd10_description": "Headache",
+  "clinical_note": "Michael Johnson presents with a 3-day history of mild to moderate headache and dizziness. The headache is not associated with nausea, photophobia, or aura, suggesting a non-migraine etiology. Further evaluation may be needed to rule out tension-type headache or other causes.",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

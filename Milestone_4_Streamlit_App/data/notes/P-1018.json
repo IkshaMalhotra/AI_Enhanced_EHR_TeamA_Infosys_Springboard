@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1018",
+  "clinical_note": "Michael Johnson presents with nausea and vomiting for 2 days. He reports epigastric abdominal pain with nausea, likely food-related. No severe symptoms were noted during the evaluation.",
+  "assessment": "Acute gastritis, likely food-related.",
+  "icd10_code": "K29.70",
+  "icd10_description": "Gastritis, unspecified, without bleeding",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

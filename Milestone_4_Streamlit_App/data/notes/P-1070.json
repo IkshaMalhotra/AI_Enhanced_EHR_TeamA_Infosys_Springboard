@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1070",
+  "clinical_note": "Jane Smith presents with a chief complaint of shortness of breath for 5 days. Symptoms have been persistent despite rest, and appetite remains normal.",
+  "assessment": "Likely acute respiratory condition requiring further evaluation.",
+  "icd10_code": "R06.02",
+  "icd10_description": "Shortness of breath",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

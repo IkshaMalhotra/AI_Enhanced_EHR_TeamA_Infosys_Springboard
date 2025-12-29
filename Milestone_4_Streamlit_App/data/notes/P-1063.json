@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1063",
+  "clinical_note": "Laura Taylor presents with a sore throat and congestion persisting for 5 days. She reports intermittent discomfort and denies any prior similar issues.",
+  "assessment": "Acute viral pharyngitis with nasal congestion.",
+  "icd10_code": "J02.9",
+  "icd10_description": "Acute pharyngitis, unspecified",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

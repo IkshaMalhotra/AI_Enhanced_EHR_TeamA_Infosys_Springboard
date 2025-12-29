@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1009",
+  "clinical_note": "Robert Brown presents with a chief complaint of shortness of breath for 10 days. Symptoms have been improving slowly. The patient denies any recent travel.",
+  "assessment": "Likely resolving respiratory condition, possibly viral in origin, given the gradual improvement and absence of recent travel.",
+  "icd10_code": "R06.02",
+  "icd10_description": "Shortness of breath",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

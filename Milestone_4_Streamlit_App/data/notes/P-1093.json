@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1093",
+  "clinical_note": "Jane Smith presents with nausea and vomiting for 7 days. She reports epigastric abdominal pain with nausea, likely food-related. No severe symptoms are noted.",
+  "assessment": "Likely gastritis or food-related gastrointestinal upset.",
+  "icd10_code": "K29.70",
+  "icd10_description": "Gastritis, unspecified, without bleeding",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

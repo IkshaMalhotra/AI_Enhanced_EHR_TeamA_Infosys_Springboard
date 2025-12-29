@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1098",
+  "clinical_note": "Michael Johnson presents with a sore throat and congestion persisting for 4 days. Symptoms have been fluctuating, and no fever has been observed.",
+  "assessment": "Likely viral upper respiratory infection.",
+  "icd10_code": "J06.9",
+  "icd10_description": "Acute upper respiratory infection, unspecified",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

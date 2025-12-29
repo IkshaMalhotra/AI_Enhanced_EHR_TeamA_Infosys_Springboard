@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1089",
+  "clinical_note": "Sarah Wilson presents with a chief complaint of shortness of breath for 9 days. She reports mild discomfort throughout the day but denies any major complications.",
+  "assessment": "The patient is experiencing prolonged shortness of breath with mild discomfort, requiring further evaluation to determine the underlying cause.",
+  "icd10_code": "R06.02",
+  "icd10_description": "Shortness of breath",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

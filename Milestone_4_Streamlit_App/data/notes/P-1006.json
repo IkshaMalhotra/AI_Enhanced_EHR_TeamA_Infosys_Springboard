@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1006",
+  "clinical_note": "Laura Taylor presents with a persistent cough and mild chest discomfort for 7 days. She reports an acute onset of fever accompanied by cough and sore throat. There is no shortness of breath noted.",
+  "assessment": "Likely acute bronchitis given the duration of symptoms and absence of shortness of breath.",
+  "icd10_code": "J20.9",
+  "icd10_description": "Acute bronchitis, unspecified",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

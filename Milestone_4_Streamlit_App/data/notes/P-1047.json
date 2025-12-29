@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1047",
+  "clinical_note": "Emily Davis presents with shortness of breath for 6 days. Symptoms are improving slowly. The patient reports no recent travel.",
+  "assessment": "Likely resolving respiratory condition, monitor for further improvement.",
+  "icd10_code": "R06.02",
+  "icd10_description": "Shortness of breath",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

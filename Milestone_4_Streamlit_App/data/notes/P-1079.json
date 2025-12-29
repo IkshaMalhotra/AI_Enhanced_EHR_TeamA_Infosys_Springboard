@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1079",
+  "clinical_note": "John Doe presents with a 3-day history of a localized skin rash accompanied by mild itching. The patient denies fever or other systemic symptoms.",
+  "assessment": "Likely contact dermatitis or mild allergic reaction.",
+  "icd10_code": "L23.9",
+  "icd10_description": "Allergic contact dermatitis, unspecified cause",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

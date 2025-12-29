@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1034",
+  "clinical_note": "Jane Smith presents with lower back pain for 9 days. She reports mild discomfort throughout the day with no major complications.",
+  "assessment": "Acute lower back pain without radiculopathy.",
+  "icd10_code": "M54.5",
+  "icd10_description": "Low back pain",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

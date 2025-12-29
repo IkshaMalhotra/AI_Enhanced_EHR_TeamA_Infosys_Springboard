@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1100",
+  "clinical_note": "Jane Smith presents with lower back pain for 7 days. Symptoms are improving slowly. The patient reports no recent travel.",
+  "assessment": "Acute lower back pain, improving gradually without signs of systemic involvement.",
+  "icd10_code": "M54.5",
+  "icd10_description": "Low back pain",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1077",
+  "clinical_note": "John Doe presents with joint pain for 3 days. Pain increases with physical activity. No swelling reported.",
+  "assessment": "Acute joint pain likely due to overuse or strain.",
+  "icd10_code": "M25.50",
+  "icd10_description": "Pain in unspecified joint",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

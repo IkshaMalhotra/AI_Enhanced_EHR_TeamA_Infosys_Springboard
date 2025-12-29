@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1021",
+  "clinical_note": "Laura Taylor presents with a chief complaint of abdominal pain for 3 days. She reports epigastric abdominal pain accompanied by nausea, which is likely food-related. No severe symptoms have been noted.",
+  "assessment": "Epigastric abdominal pain, likely related to dietary factors.",
+  "icd10_code": "R10.13",
+  "icd10_description": "Epigastric pain",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

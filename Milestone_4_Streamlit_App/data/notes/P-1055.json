@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1055",
+  "clinical_note": "John Doe presents with nausea and vomiting for 6 days. He reports epigastric abdominal pain with nausea, likely food-related. No severe symptoms were noted during the evaluation.",
+  "assessment": "Acute gastroenteritis, likely food-related.",
+  "icd10_code": "K52.9",
+  "icd10_description": "Noninfective gastroenteritis and colitis, unspecified",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

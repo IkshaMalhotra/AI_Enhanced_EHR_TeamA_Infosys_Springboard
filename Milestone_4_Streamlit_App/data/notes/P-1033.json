@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1033",
+  "clinical_note": "Sarah Wilson presents with a 5-day history of epigastric abdominal pain accompanied by nausea, likely related to food intake. No severe symptoms reported.",
+  "assessment": "Epigastric pain, likely gastritis or dyspepsia.",
+  "icd10_code": "K29.70",
+  "icd10_description": "Gastritis, unspecified, without bleeding",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

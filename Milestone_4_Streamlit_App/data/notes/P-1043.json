@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1043",
+  "clinical_note": "David Miller presents with nausea and vomiting for 5 days. He reports epigastric abdominal pain with nausea, which is likely food-related. No severe symptoms are noted.",
+  "assessment": "Acute gastritis",
+  "icd10_code": "K29.70",
+  "icd10_description": "Gastritis, unspecified, without bleeding",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

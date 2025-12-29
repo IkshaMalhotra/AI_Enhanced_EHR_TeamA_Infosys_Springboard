@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1068",
+  "clinical_note": "John Doe presents with a sore throat and congestion persisting for 8 days. Symptoms have been fluctuating, and no fever has been observed.",
+  "assessment": "Acute viral upper respiratory infection",
+  "icd10_code": "J06.9",
+  "icd10_description": "Acute upper respiratory infection, unspecified",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

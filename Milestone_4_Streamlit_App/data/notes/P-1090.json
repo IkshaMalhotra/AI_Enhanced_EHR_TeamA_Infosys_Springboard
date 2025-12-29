@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1090",
+  "clinical_note": "Michael Johnson presents with a sore throat and congestion persisting for 10 days. Symptoms began suddenly, and hydration provides slight relief.",
+  "assessment": "Acute viral pharyngitis with nasal congestion.",
+  "icd10_code": "J02.9",
+  "icd10_description": "Acute pharyngitis, unspecified",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1005",
+  "clinical_note": "Michael Johnson presents with a headache and dizziness for 8 days. He reports a mild to moderate headache without associated nausea, photophobia, or aura.",
+  "assessment": "Likely tension-type headache, rule out other causes of dizziness.",
+  "icd10_code": "R51",
+  "icd10_description": "Headache",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

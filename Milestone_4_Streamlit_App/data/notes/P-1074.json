@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1074",
+  "clinical_note": "David Miller presents with a sore throat and congestion persisting for 7 days. The discomfort has been intermittent, and the patient reports no prior similar issues.",
+  "assessment": "Acute viral pharyngitis",
+  "icd10_code": "J02.9",
+  "icd10_description": "Acute pharyngitis, unspecified",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

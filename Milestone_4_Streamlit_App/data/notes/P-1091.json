@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1091",
+  "clinical_note": "John Doe presents with a 6-day history of headache and dizziness. The headache is described as mild to moderate in intensity and is not associated with nausea, photophobia, or aura.",
+  "assessment": "Likely tension-type headache or vestibular dysfunction. Further evaluation needed to rule out other causes.",
+  "icd10_code": "R51.9",
+  "icd10_description": "Headache, unspecified",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

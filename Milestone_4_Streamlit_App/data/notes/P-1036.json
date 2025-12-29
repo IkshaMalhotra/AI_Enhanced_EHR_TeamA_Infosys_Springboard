@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1036",
+  "clinical_note": "Chris Martin presents with a chief complaint of joint pain for 7 days. Symptoms have been improving slowly, and there is no history of recent travel.",
+  "assessment": "Likely inflammatory or degenerative joint condition, improving without significant red flags.",
+  "icd10_code": "M25.50",
+  "icd10_description": "Pain in unspecified joint",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

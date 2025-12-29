@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1064",
+  "clinical_note": "Chris Martin presents with a sore throat and congestion for 10 days. Symptoms began suddenly. Hydration provides slight relief.",
+  "assessment": "Acute viral pharyngitis",
+  "icd10_code": "J02.9",
+  "icd10_description": "Acute pharyngitis, unspecified",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

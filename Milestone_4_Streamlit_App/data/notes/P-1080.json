@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1080",
+  "clinical_note": "Olivia Clark presents with a persistent cough and mild chest discomfort for 6 days. The patient reports an acute onset of fever accompanied by cough and sore throat. There is no reported shortness of breath.",
+  "assessment": "Acute upper respiratory infection with associated symptoms of fever, cough, and sore throat.",
+  "icd10_code": "J06.9",
+  "icd10_description": "Acute upper respiratory infection, unspecified",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

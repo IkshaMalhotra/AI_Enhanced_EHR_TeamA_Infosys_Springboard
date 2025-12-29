@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1054",
+  "clinical_note": "Michael Johnson presents with lower back pain for 3 days. The discomfort is intermittent, and the patient reports no prior similar issues.",
+  "assessment": "Acute lower back pain, likely musculoskeletal in origin.",
+  "icd10_code": "M54.5",
+  "icd10_description": "Low back pain",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

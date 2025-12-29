@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1085",
+  "clinical_note": "Jane Smith presents with epigastric abdominal pain lasting 8 days, accompanied by nausea. Symptoms are likely food-related and not severe.",
+  "assessment": "Epigastric abdominal pain, likely related to dietary factors. Symptoms are mild and do not indicate severe pathology.",
+  "icd10_code": "R10.13",
+  "icd10_description": "Epigastric pain",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

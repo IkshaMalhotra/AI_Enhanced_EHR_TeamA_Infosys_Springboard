@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1037",
+  "clinical_note": "Chris Martin presents with joint pain for 10 days. The discomfort has been intermittent, and the patient reports no prior similar issues.",
+  "assessment": "Intermittent joint pain, likely due to inflammation or overuse. Further evaluation needed to rule out underlying conditions such as arthritis or injury.",
+  "icd10_code": "M25.50",
+  "icd10_description": "Pain in unspecified joint",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

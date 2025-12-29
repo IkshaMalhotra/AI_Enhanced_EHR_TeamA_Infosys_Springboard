@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1073",
+  "clinical_note": "Olivia Clark presents with a chief complaint of lower back pain for 2 days. She reports mild discomfort throughout the day with no major complications noted.",
+  "assessment": "Acute lower back pain, likely musculoskeletal in origin. No red flags or complications observed at this time.",
+  "icd10_code": "M54.5",
+  "icd10_description": "Low back pain",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

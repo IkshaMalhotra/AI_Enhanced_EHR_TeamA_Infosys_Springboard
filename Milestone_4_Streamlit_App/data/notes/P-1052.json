@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1052",
+  "clinical_note": "David Miller presents with joint pain for 5 days. Symptoms are improving slowly. The patient reports no recent travel.",
+  "assessment": "Likely inflammatory or degenerative joint condition, improving.",
+  "icd10_code": "M25.50",
+  "icd10_description": "Pain in unspecified joint",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

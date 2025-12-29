@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1094",
+  "clinical_note": "Robert Brown presents with a 5-day history of headache and dizziness. The headache is described as mild to moderate in intensity and is not associated with nausea, photophobia, or aura.",
+  "assessment": "Likely tension-type headache. Differential diagnosis includes vestibular dysfunction or other neurological causes.",
+  "icd10_code": "R51.9",
+  "icd10_description": "Headache, unspecified",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

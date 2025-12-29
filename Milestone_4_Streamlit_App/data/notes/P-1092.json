@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1092",
+  "clinical_note": "Sarah Wilson presents with a sore throat and congestion for 4 days. She reports mild discomfort throughout the day with no major complications.",
+  "assessment": "Acute viral upper respiratory infection",
+  "icd10_code": "J06.9",
+  "icd10_description": "Acute upper respiratory infection, unspecified",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

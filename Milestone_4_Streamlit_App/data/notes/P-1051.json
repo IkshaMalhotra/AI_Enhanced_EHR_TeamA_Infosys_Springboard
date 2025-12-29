@@ -1,0 +1,9 @@
+{
+  "patient_id": "P-1051",
+  "assessment": "The patient, Jane Smith, presents with a 6-day history of shortness of breath. Symptoms are reported to be improving slowly. There is no history of recent travel, which reduces the likelihood of certain infectious or environmental exposures.",
+  "icd10_code": "R06.02",
+  "icd10_description": "Shortness of breath",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

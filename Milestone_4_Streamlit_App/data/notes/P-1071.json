@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1071",
+  "clinical_note": "Michael Johnson presents with a 9-day history of epigastric abdominal pain accompanied by nausea, likely related to food intake. There are no severe symptoms reported.",
+  "assessment": "Epigastric abdominal pain, likely food-related, without severe symptoms.",
+  "icd10_code": "R10.13",
+  "icd10_description": "Epigastric pain",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

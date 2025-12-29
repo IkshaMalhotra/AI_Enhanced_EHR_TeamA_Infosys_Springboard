@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1065",
+  "assessment": "Sarah Wilson presents with a 3-day history of shortness of breath. Symptoms have been improving slowly, and there is no history of recent travel. Further evaluation is necessary to determine the underlying cause.",
+  "icd10_code": "R06.02",
+  "icd10_description": "Shortness of breath",
+  "clinical_note": "Sarah Wilson presents with a 3-day history of shortness of breath. Symptoms have been improving slowly. She denies any recent travel. Further evaluation and monitoring are recommended to assess the cause and progression of symptoms.",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1046",
+  "clinical_note": "David Miller presents with a localized skin rash that has been present for 6 days, accompanied by mild itching. There are no associated fever or systemic symptoms.",
+  "assessment": "Likely contact dermatitis or mild allergic reaction.",
+  "icd10_code": "L23.9",
+  "icd10_description": "Allergic contact dermatitis, unspecified cause",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

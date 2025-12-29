@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1024",
+  "clinical_note": "Emily Davis presents with a 5-day history of shortness of breath. Symptoms are reported to worsen at night with no notable triggers identified.",
+  "assessment": "Likely asthma exacerbation or other respiratory condition requiring further evaluation.",
+  "icd10_code": "J45.901",
+  "icd10_description": "Unspecified asthma with (acute) exacerbation",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

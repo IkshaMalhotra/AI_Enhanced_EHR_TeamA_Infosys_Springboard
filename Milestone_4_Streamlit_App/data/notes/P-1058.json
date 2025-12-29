@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1058",
+  "clinical_note": "Chris Martin presents with lower back pain for 10 days. Symptoms began suddenly, and hydration provides slight relief.",
+  "assessment": "Acute lower back pain likely due to musculoskeletal strain.",
+  "icd10_code": "M54.5",
+  "icd10_description": "Low back pain",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

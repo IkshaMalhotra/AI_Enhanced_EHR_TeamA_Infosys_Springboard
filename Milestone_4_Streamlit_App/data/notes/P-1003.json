@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1003",
+  "clinical_note": "Olivia Clark presents with a mild fever and fatigue for 6 days. She reports an acute onset of fever accompanied by cough and sore throat. There is no shortness of breath noted.",
+  "assessment": "Likely viral upper respiratory tract infection.",
+  "icd10_code": "J06.9",
+  "icd10_description": "Acute upper respiratory infection, unspecified",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1044",
+  "clinical_note": "Jane Smith presents with a 2-day history of headache and dizziness. The headache is described as mild to moderate in intensity and is not associated with nausea, photophobia, or aura.",
+  "assessment": "Likely tension-type headache. Rule out other causes of dizziness such as vestibular dysfunction or dehydration.",
+  "icd10_code": "R51",
+  "icd10_description": "Headache",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

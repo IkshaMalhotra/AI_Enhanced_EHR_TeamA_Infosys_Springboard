@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1010",
+  "clinical_note": "Michael Johnson presents with joint pain for 6 days. Symptoms have been fluctuating, and no fever has been observed.",
+  "assessment": "Likely inflammatory or mechanical joint pain without systemic symptoms.",
+  "icd10_code": "M25.50",
+  "icd10_description": "Pain in unspecified joint",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

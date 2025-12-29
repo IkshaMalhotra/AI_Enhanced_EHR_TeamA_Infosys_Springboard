@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1001",
+  "clinical_note": "Robert Brown presents with a localized skin rash for 4 days accompanied by mild itching. There are no associated fever or systemic symptoms reported.",
+  "assessment": "Likely contact dermatitis or mild allergic reaction.",
+  "icd10_code": "L23.9",
+  "icd10_description": "Allergic contact dermatitis, unspecified cause",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

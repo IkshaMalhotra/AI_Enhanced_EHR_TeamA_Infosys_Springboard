@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1097",
+  "assessment": "The patient presents with a 3-day history of headache and dizziness. The headache is described as mild to moderate in intensity and is not associated with nausea, photophobia, or aura. Further evaluation is needed to determine the underlying cause.",
+  "icd10_code": "R51",
+  "icd10_description": "Headache",
+  "clinical_note": "John Doe presents with a 3-day history of headache and dizziness. The headache is described as mild to moderate in intensity and is not associated with nausea, photophobia, or aura. Further evaluation is required to determine the underlying cause.",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

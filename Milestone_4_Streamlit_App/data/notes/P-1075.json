@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1075",
+  "clinical_note": "Sarah Wilson presents with a headache and dizziness for 8 days. She reports a mild to moderate headache without associated nausea, photophobia, or aura.",
+  "assessment": "Likely tension-type headache with associated dizziness. No red flag symptoms reported.",
+  "icd10_code": "R51",
+  "icd10_description": "Headache",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

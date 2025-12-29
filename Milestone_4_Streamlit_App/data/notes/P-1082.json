@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1082",
+  "clinical_note": "Michael Johnson presents with a 2-day history of headache and dizziness. The headache is described as mild to moderate in intensity, without associated nausea, photophobia, or aura.",
+  "assessment": "Likely tension-type headache or possible vestibular dysfunction. Further evaluation needed to rule out other causes.",
+  "icd10_code": "R51",
+  "icd10_description": "Headache",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

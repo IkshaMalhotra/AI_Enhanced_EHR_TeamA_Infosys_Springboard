@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1059",
+  "clinical_note": "John Doe presents with a chief complaint of shortness of breath for 10 days. Symptoms have been persistent despite rest. Appetite remains normal.",
+  "assessment": "The patient is experiencing prolonged shortness of breath, which may indicate a respiratory or cardiovascular condition requiring further evaluation.",
+  "icd10_code": "R06.02",
+  "icd10_description": "Shortness of breath",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

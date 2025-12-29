@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1081",
+  "clinical_note": "John Doe presents with a 9-day history of shortness of breath. Symptoms are reported to worsen at night with no notable triggers identified.",
+  "assessment": "Likely dyspnea of undetermined cause, requiring further evaluation.",
+  "icd10_code": "R06.02",
+  "icd10_description": "Shortness of breath",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

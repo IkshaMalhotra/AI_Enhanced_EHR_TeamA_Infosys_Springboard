@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1022",
+  "clinical_note": "Michael Johnson presents with a sore throat and congestion persisting for 7 days. The onset has been gradual, and sleep has been mildly disturbed.",
+  "assessment": "Acute viral upper respiratory infection",
+  "icd10_code": "J06.9",
+  "icd10_description": "Acute upper respiratory infection, unspecified",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

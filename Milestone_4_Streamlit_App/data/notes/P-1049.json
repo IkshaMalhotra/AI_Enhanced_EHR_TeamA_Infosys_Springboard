@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1049",
+  "clinical_note": "Emily Davis presents with a chief complaint of lower back pain for 10 days. The pain had a gradual onset and has mildly disturbed her sleep.",
+  "assessment": "Lower back pain, likely musculoskeletal in origin.",
+  "icd10_code": "M54.5",
+  "icd10_description": "Low back pain",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

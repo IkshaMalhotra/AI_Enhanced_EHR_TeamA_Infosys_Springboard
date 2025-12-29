@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1020",
+  "clinical_note": "Sarah Wilson presents with lower back pain for 5 days. Symptoms have been fluctuating, and no fever has been observed.",
+  "assessment": "Acute lower back pain without associated systemic symptoms.",
+  "icd10_code": "M54.5",
+  "icd10_description": "Low back pain",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

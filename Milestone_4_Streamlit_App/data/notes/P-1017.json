@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1017",
+  "clinical_note": "Olivia Clark presents with lower back pain for 4 days. Symptoms are improving slowly. The patient reports no recent travel.",
+  "assessment": "Acute lower back pain, improving.",
+  "icd10_code": "M54.5",
+  "icd10_description": "Low back pain",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

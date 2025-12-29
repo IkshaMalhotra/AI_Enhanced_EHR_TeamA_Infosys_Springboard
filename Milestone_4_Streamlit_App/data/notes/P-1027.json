@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1027",
+  "clinical_note": "John Doe presents with a sore throat and congestion for 6 days. The discomfort has been intermittent, and the patient reports no prior similar issues.",
+  "assessment": "Acute viral pharyngitis likely causing the sore throat and congestion.",
+  "icd10_code": "J02.9",
+  "icd10_description": "Acute pharyngitis, unspecified",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

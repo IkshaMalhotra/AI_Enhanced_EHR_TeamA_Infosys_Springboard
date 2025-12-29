@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1007",
+  "clinical_note": "Robert Brown presents with nausea and vomiting for 6 days. He reports epigastric abdominal pain accompanied by nausea, which is suspected to be food-related. No severe symptoms are noted at this time.",
+  "assessment": "Likely gastritis or food-related gastrointestinal upset.",
+  "icd10_code": "K29.70",
+  "icd10_description": "Gastritis, unspecified, without bleeding",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

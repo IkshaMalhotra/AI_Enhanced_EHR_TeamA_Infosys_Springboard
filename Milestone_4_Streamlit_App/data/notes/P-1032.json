@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1032",
+  "clinical_note": "Emily Davis presents with a chief complaint of shortness of breath for 6 days. Symptoms began suddenly and hydration provides slight relief.",
+  "assessment": "Acute dyspnea, likely multifactorial. Further evaluation needed to determine underlying cause.",
+  "icd10_code": "R06.02",
+  "icd10_description": "Shortness of breath",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

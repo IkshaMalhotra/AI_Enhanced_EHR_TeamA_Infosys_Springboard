@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1045",
+  "clinical_note": "Jane Smith presents with a persistent cough and mild chest discomfort for 3 days. She reports an acute onset of fever accompanied by cough and sore throat. She denies any shortness of breath.",
+  "assessment": "Acute upper respiratory infection with associated symptoms of cough, fever, and sore throat.",
+  "icd10_code": "J06.9",
+  "icd10_description": "Acute upper respiratory infection, unspecified",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

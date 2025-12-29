@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1076",
+  "clinical_note": "David Miller presents with a 2-day history of epigastric abdominal pain accompanied by nausea. Symptoms are likely food-related, with no severe or alarming features reported.",
+  "assessment": "Epigastric abdominal pain, likely related to dietary factors.",
+  "icd10_code": "R10.13",
+  "icd10_description": "Epigastric pain",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

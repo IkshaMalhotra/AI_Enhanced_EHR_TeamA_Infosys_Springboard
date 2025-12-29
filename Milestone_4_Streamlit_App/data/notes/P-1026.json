@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1026",
+  "clinical_note": "Michael Johnson presents with shortness of breath for 5 days. The discomfort has been intermittent, and he reports no prior similar issues.",
+  "assessment": "The patient is experiencing intermittent shortness of breath, which may be indicative of a respiratory or cardiovascular condition. Further evaluation is needed to determine the underlying cause.",
+  "icd10_code": "R06.02",
+  "icd10_description": "Shortness of breath",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}

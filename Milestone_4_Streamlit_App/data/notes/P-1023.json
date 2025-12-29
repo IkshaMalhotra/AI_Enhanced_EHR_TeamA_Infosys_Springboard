@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-1023",
+  "clinical_note": "Emily Davis presents with a chief complaint of joint pain for 10 days. Symptoms have been persistent despite rest. Appetite remains normal.",
+  "assessment": "Persistent joint pain likely due to inflammatory or degenerative causes. Further evaluation needed to determine underlying etiology.",
+  "icd10_code": "M25.50",
+  "icd10_description": "Pain in unspecified joint",
+  "generation_metadata": {
+    "backend": "azure_openai"
+  }
+}
