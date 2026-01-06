@@ -9,6 +9,77 @@ st.set_page_config(
     layout="wide"
 )
 
+if "started" not in st.session_state:
+    st.session_state.started = False
+
+
+if not st.session_state.started:
+
+    st.markdown("""
+    <style>
+        .premium-card {
+            background: linear-gradient(145deg, #0f2027, #203a43, #2c5364);
+            padding: 60px 50px;
+            border-radius: 24px;
+            color: white;
+            box-shadow: 0 25px 60px rgba(0,0,0,0.35);
+            text-align: center;
+        }
+
+        .premium-title {
+            font-size: 44px;
+            font-weight: 700;
+            margin-bottom: 18px;
+        }
+
+        .premium-subtitle {
+            font-size: 18px;
+            color: #d7e9ff;
+            line-height: 1.7;
+            margin-bottom: 30px;
+        }
+
+        .badge {
+            display: inline-block;
+            margin: 6px;
+            padding: 10px 18px;
+            border-radius: 999px;
+            background: rgba(255,255,255,0.15);
+            font-size: 14px;
+        }
+    </style>
+    """, unsafe_allow_html=True)
+
+    st.markdown("<br><br>", unsafe_allow_html=True)
+
+
+    left, center, right = st.columns([1, 3, 1])
+
+    with center:
+        st.markdown("""
+        <div class="premium-card">
+            <div class="premium-title">
+            AI-Powered Enhanced EHR Imaging & Documentation
+            </div>
+
+        <div class="premium-subtitle">
+            An advanced healthcare application integrating Generative AI with Electronic Health Records (EHR) to enhance medical imaging, automate clinical documentation, and improve ICD-10 coding accuracy.  
+        </div>
+        """, unsafe_allow_html=True)
+
+        st.markdown("<br>", unsafe_allow_html=True)
+
+        if st.button("Continue to Clinical Dashboard", use_container_width=True):
+            st.session_state.started = True
+            st.rerun()
+
+        st.markdown("<br>", unsafe_allow_html=True)
+        st.caption("⚠️Prototype for demonstration purposes only.")
+
+    st.stop()
+
+
+
 st.markdown("""
 # AI-Powered Enhanced EHR Imaging & Documentation
 **An advanced healthcare application integrating Generative AI with Electronic Health Records (EHR) to enhance medical imaging, automate clinical documentation, and improve ICD-10 coding accuracy.**
@@ -16,6 +87,7 @@ st.markdown("""
 ---
 """)
 
+# ------------------ DIRECTORIES ------------------
 NOTES_DIR = "data/notes"
 IMAGES_DIR = "data/images"
 
@@ -26,6 +98,7 @@ if not os.path.exists(NOTES_DIR):
 patient_files = [f for f in os.listdir(NOTES_DIR) if f.endswith(".json")]
 patient_ids = sorted([f.replace(".json", "") for f in patient_files])
 
+# ------------------ SIDEBAR ------------------
 st.sidebar.markdown("## 🏥 Clinical Dashboard")
 st.sidebar.markdown("Select a patient record to review AI-enhanced outputs.")
 
@@ -41,6 +114,7 @@ st.sidebar.info(
     "and diagnosis classification."
 )
 
+# ------------------ DATA LOADING ------------------
 image_path = os.path.join(IMAGES_DIR, f"{selected_patient}.jpg")
 note_path = os.path.join(NOTES_DIR, f"{selected_patient}.json")
 
@@ -63,13 +137,12 @@ if isinstance(icd_code, list):
 if isinstance(icd_code, dict):
     icd_code = icd_code.get("code")
 
+# ------------------ LAYOUT ------------------
 col1, col2 = st.columns([1.3, 1])
 
 with col1:
     st.subheader("Patient Overview")
-    st.markdown(f"""
-**Patient ID:** {patient_id}
-    """)
+    st.markdown(f"**Patient ID:** {patient_id}")
 
     st.subheader("Enhanced Medical Image")
 
@@ -154,6 +227,7 @@ with col2:
         unsafe_allow_html=True
     )
 
+# ------------------ FOOTER ------------------
 st.markdown("---")
 st.caption(
     "⚠️ This system is intended to support clinical decision-making and does not replace "
