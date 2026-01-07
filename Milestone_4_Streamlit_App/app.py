@@ -87,8 +87,10 @@ st.markdown("""
 ---
 """)
 
-NOTES_DIR = "data/notes"
-IMAGES_DIR = "data/images"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+NOTES_DIR = os.path.join(BASE_DIR, "data", "notes")
+IMAGES_DIR = os.path.join(BASE_DIR, "data", "images")
 
 os.makedirs(NOTES_DIR, exist_ok=True)
 os.makedirs(IMAGES_DIR, exist_ok=True)
