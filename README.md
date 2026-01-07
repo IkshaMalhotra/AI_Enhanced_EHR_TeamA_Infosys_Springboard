@@ -1,4 +1,5 @@
-# AI-Powered Enhanced EHR Imaging & Documentation System:
+# AI-Powered Enhanced EHR Imaging & Documentation System
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://team-a-ai-enhanced-ehr-imaging-documentation.streamlit.app/)
 
 An advanced healthcare application that integrates Generative AI with Electronic Health Records (EHR) to enhance medical imaging, automate clinical documentation, and improve ICD-10 coding accuracy. The system leverages Azure OpenAI, Computer Vision and APIs to streamline clinical workflows, reduce administrative workload and improve diagnostic efficiency .It empowers clinicians to spend less time on non-clinical tasks and more time on patient care.
 
@@ -18,3 +19,7 @@ The project follows an end-to-end pipeline consisting of four major stages, each
 - Reduced documentation effort through automated clinical note generation using structured EHR data and Generative AI.
 - Streamlined ICD-10 coding integrated within the clinical documentation workflow, enabling faster and more consistent diagnosis classification.
 - Minimized repetitive administrative tasks by automating key EHR processes, supporting greater clinician focus on patient care in a real-world deployment scenario.
+
+---
+## LIVE DEMO
+https://team-a-ai-enhanced-ehr-imaging-documentation.streamlit.app/
