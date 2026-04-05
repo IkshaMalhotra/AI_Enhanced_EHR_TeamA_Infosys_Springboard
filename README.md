@@ -1,7 +1,5 @@
 # AI-Powered Enhanced EHR Imaging & Documentation System
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://team-a-ai-enhanced-ehr-imaging-documentation.streamlit.app/)
-
----
 [https://team-a-ai-enhanced-ehr-imaging-documentation.streamlit.app/](https://ai-enhanced-ehr-imaging-documentation-infosysspringboard.streamlit.app/)
 
 ---
